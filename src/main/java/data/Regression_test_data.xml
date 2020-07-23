@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Regression_test_data">
+
+	<text name="LoginTest">
+
+		<parameter name="username" value="demo@techfios.com" />
+		<parameter name="password" value="abc123" />
+
+		<parameter name="fullName" value="Test XML " />
+		<parameter name="company" value="Techfios" />
+		<parameter name="email" value="myXML@gmail.com  " />
+		<parameter name="phoneNum" value="236549 " />
+		<parameter name="adress" value="etchfios building " />
+		<parameter name="city" value="carrolton " />
+		<parameter name="state" value="TX " />
+		<parameter name="zip" value="87954 " />
+		<parameter name="group" value="mid-spring2020 " />
+
+		<classes>
+			<class name="test.LoginTest" />
+			<class name="test.AddCustomerTest" />
+
+		</classes>
+
+	</text>
+
+</suite>
